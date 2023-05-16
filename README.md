@@ -38,7 +38,7 @@
  <a href="https://mehdi-bernaoui.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mehdi-bernaoui" />
  </a>
- <a href="https://www.linkedin.com/in/mehdi-bernaoui" target="_blank">
+ <a href="https://www.linkedin.com/in/mehdi-bernaoui-00a471275" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mehdi-bernaoui"/>
  </a>
 </p>
@@ -112,5 +112,5 @@
 </a>
 
 
-![Mehdi bernaoui Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mehdi-bernaoui&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![mehdi-bernaoui Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mehdi-bernaoui&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
