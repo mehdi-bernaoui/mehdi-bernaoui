@@ -74,7 +74,7 @@
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=mehdi-bernaoui&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mehdi-bernaoui/web-projects)
+[![Web Projects](git@github.com:mehdi-bernaoui/site-la-plateforme.git)](https://github.com/mehdi-bernaoui/web-projects)
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=mehdi-bernaoui&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mehdi-bernaoui/al-folio)
 [![mehdi-bernaoui Readme](https://github-readme-stats.vercel.app/api/pin/?username=mehdi-bernaoui&repo=mehdi-bernaoui&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mehdi-bernaoui/mehdi-bernaoui)
 [![mehdi-bernaoui Teminal](https://github-readme-stats.vercel.app/api/pin/?username=mehdi-bernaoui&repo=mehdi-bernaoui.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mehdi-bernaoui/mehdi-bernaoui.github.io)
