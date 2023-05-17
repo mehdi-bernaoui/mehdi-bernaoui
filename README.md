@@ -24,10 +24,7 @@
 <p align="center"> 
   <samp>
   
-    <br>
-    「 I am a web developer」
-    <br>
-    <br>
+   
   </samp>
 </p>
 
