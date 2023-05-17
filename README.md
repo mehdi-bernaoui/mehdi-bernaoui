@@ -89,7 +89,7 @@
 
 <p align="center">
   <a href="https://github.com/mehdi-bernaoui">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehdi-bernaoui&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehdi-bernaoui&theme=radical" alt="Mehdi-bernaoui GitHub Contribution"/>
   </a>
 </p>
 
